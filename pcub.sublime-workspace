@@ -1,0 +1,826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 10904,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pandas_cub/__init__.py",
+			"settings":
+			{
+				"buffer_size": 22132,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/test_dataframe.py",
+			"settings":
+			{
+				"buffer_size": 25443,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dane/src/pandas_cub",
+		"/Users/dane/src/pandas_cub/notebooks",
+		"/Users/dane/src/pandas_cub/notebooks/data",
+		"/Users/dane/src/pandas_cub/pandas_cub",
+		"/Users/dane/src/pandas_cub/pandas_cub_final",
+		"/Users/dane/src/pandas_cub/tests"
+	],
+	"file_history":
+	[
+		"/Users/dane/Dropbox/z/Python.txt",
+		"/Users/dane/src/skyline/aws/cpu_stats.py",
+		"/Users/dane/src/datatools/README",
+		"/Users/dane/Dropbox/z/iPython.txt",
+		"/Users/dane/src/datatools/analytics/crash/models.py",
+		"/Users/dane/src/datatools/analytics/crash/scripts/import_dumpfiles.py",
+		"/Users/dane/src/datatools/analytics/crash/views.py",
+		"/Users/dane/src/datatools/analytics/ip/models.py",
+		"/Users/dane/src/datatools/analytics/crash/urls.py",
+		"/Users/dane/src/datatools/ipy/notebooks/session_data/dev/features.py",
+		"/Users/dane/src/datatools/piracy/us-aus-crm11.log",
+		"/Users/dane/src/datatools/analytics/pertest/models.py",
+		"/Users/dane/src/datatools/analytics/pertest/otf/9502.17_ling_changes.py",
+		"/Users/dane/airflow/dags/backup_tp.py",
+		"/Users/dane/src/caat/.gitignore",
+		"/Users/dane/airflow/.gitignore",
+		"/Users/dane/src/datatools/dtrt.py",
+		"/Users/dane/airflow/dags/datatool_tests.py",
+		"/Users/dane/src/datatools/dtutil/util.py",
+		"/Users/dane/airflow/dags/uw_pipeline.py",
+		"/Users/dane/Library/LaunchAgents/com.dacxl.test.plist",
+		"/Users/dane/src/datatools/ipy/notebooks/session_data/dev/features_dummy.py",
+		"/Users/dane/Dropbox/osx/bin/start_at_login",
+		"/Users/dane/Dropbox/z/bash.txt",
+		"/Users/dane/src/datatools/sql/tlm2df_dummy.py",
+		"/Users/dane/airflow/logs/scheduler/2018-10-19/uw_pipeline.py.log",
+		"/Users/dane/airflow/uw_pipeline.py",
+		"/Users/dane/src/datatools/piracy/db_timing_test.py",
+		"/Users/dane/src/datatools/dtutil/sqltools.py",
+		"/Users/dane/src/datatools/analytics/crash/scripts/matchup_stacktraces.py",
+		"/Users/dane/src/datatools/analytics/crash/templates/crash/nav_base.html",
+		"/Users/dane/src/datatools/analytics/crash/templates/crash/stack.html",
+		"/Users/dane/src/datatools/analytics/crash/templates/crash/dumpfiles.html",
+		"/Users/dane/src/datatools/analytics/crash/templates/crash/build_info.html",
+		"/Users/dane/src/datatools/analytics/crash/templates/crash/allstacktraces.html",
+		"/Users/dane/src/datatools/scheduled/get_cl.py",
+		"/Users/dane/src/datatools/scheduled/log_queue_to_db.py",
+		"/Users/dane/src/datatools/scheduled/check_server.py",
+		"/Users/dane/src/datatools/scheduled/show_tlm_pct.py",
+		"/Users/dane/src/datatools/scheduled/daily_msql_summary.py",
+		"/Users/dane/src/datatools/scheduled/frequent_demo_lic.py",
+		"/Users/dane/src/datatools/scheduled/dashboard_data.py",
+		"/Users/dane/src/datatools/scheduled/rslog.py",
+		"/Users/dane/src/datatools/analytics/tlm/models.py",
+		"/Users/dane/src/datatools/analytics/crash/test_import_df.py",
+		"/Users/dane/src/datatools/analytics/crash/testdata/version_strings.txt",
+		"/Users/dane/src/datatools/analytics/pertest/views.py",
+		"/Users/dane/src/datatools/scoring/monthly_lead_report.py",
+		"/Users/dane/src/datatools/analytics/config/log.py",
+		"/Users/dane/Dropbox/Work/_WIP/18-portable_test_bench/test_definitions.json",
+		"/Users/dane/src/datatools/products/fe_ratio.py",
+		"/Users/dane/src/datatools/analytics/pertest/reader.py",
+		"/Users/dane/src/datatools/analytics/crash/README.txt",
+		"/Users/dane/src/datatools/analytics/import_crash_data.bat",
+		"/Users/dane/Box Sync/dane/data/wads/tdms/HTAP_Demos/tdms2xls.py",
+		"/Users/dane/src/datatools/reports/mktg_downloads/download_map.csv",
+		"/Users/dane/src/datatools/analytics/cdb/templates/cdb/nav_base.html",
+		"/Users/dane/src/datatools/renewals/new.py",
+		"/Users/dane/Box Sync/dane/data/wads/tdms/NI_SR_tdms/readrx2csv.py",
+		"/Users/dane/Box Sync/dane/data/wads/tdms/viz_data/time_cvt.py",
+		"/Users/dane/src/datatools/analytics/pertest/otf/9477.20_greens_function.py",
+		"/Users/dane/Dropbox/Work/_WIP/18-portable_test_bench/tdf_narrative.md",
+		"/Users/dane/src/datatools/sf/by_pn.py",
+		"/Users/dane/src/datatools/sf/get_antsyn.py",
+		"/Users/dane/src/datatools/dtutil/sfdc.py",
+		"/Users/dane/src/datatools/analytics/tlm/analysis.py",
+		"/Users/dane/src/datatools/analytics/tlm/aws_import.py",
+		"/Users/dane/src/datatools/analytics/tlm/views.py",
+		"/Users/dane/src/datatools/analytics/pertest/util.py",
+		"/Users/dane/src/datatools/analytics/ip/test_models.py",
+		"/Users/dane/src/datatools/analytics/ip/whois.py",
+		"/Users/dane/src/datatools/analytics/ip/ipservices.py",
+		"/Users/dane/src/datatools/analytics/cdb/views.py",
+		"/Users/dane/src/datatools/dtutil/csvtup.py",
+		"/Users/dane/src/datatools/dtutil/accounts.py",
+		"/Users/dane/src/datatools/analytics/cdb/models.py",
+		"/Users/dane/src/datatools/analytics/cdb/views_cdb.py",
+		"/Users/dane/src/datatools/dtutil/configs.py",
+		"/Users/dane/src/datatools/dtutil/system_tags.py",
+		"/Users/dane/src/datatools/stubs/django/urls/utils.pyi",
+		"/Users/dane/src/datatools/analytics/crash/scripts/stacklcs_load_output.py",
+		"/Users/dane/src/datatools/kblogs/parser.py",
+		"/Users/dane/src/datatools/analytics/logs/models.py",
+		"/Users/dane/src/datatools/analytics/logs/load_logs.py",
+		"/Users/dane/src/datatools/analytics/pertest/otf/9454.10_wrong_type.py",
+		"/Users/dane/src/datatools/dtutil/settings.py",
+		"/Users/dane/src/datatools/ipy/README.md",
+		"/Users/dane/Desktop/tableau_data_clean.tsv",
+		"/Users/dane/src/datatools/analytics/pertest/templates/pertest/list_changes.html",
+		"/Users/dane/src/datatools/analytics/pertest/urls.py",
+		"/Users/dane/src/datatools/analytics/pertest/templates/pertest/run_stats.html",
+		"/Users/dane/src/datatools/dtrt",
+		"/Users/dane/src/datatools/analytics/pertest/otf/9436.13_init_wrong.py",
+		"/Users/dane/src/datatools/analytics/pertest/test_models.py",
+		"/Users/dane/src/datatools/analytics/import_test.py",
+		"/Users/dane/src/datatools/analytics/crash/scripts/import_crash_instance.py",
+		"/Users/dane/src/datatools/analytics/crash/scripts/manual_import_crash_instance.py",
+		"/Users/dane/src/datatools/dtutil/sqs.py",
+		"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/python36.rb",
+		"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/python.rb",
+		"/Users/dane/Dropbox/z/AWS.txt",
+		"/Users/dane/src/datatools/analytics/crash/scripts/update_start_summary.py",
+		"/Users/dane/src/datatools/sql/V14_ext_starts.sql",
+		"/Users/dane/src/datatools/scheduled/aws_etag_list.txt",
+		"/Users/dane/Dropbox/osx/new_mac_setup.md",
+		"/Users/dane/sublime-projects/dt.sublime-project",
+		"/Users/dane/Dropbox/osx/Microsoft_Remote_Desktop/ClipboardActionTransformations.xml",
+		"/Users/dane/Dropbox/osx/sublime/sublime_key.txt",
+		"/Users/dane/src/datatools/dtutil/getaccounts.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								628,
+								628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 567.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pandas_cub/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3360,
+								3360
+							]
+						],
+						"settings":
+						{
+							"SL.125.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.pyflakes.Highlights.|8f28ca7cc572c7b9a208e29785b6420aad8d1041e9e555ae2620f31e7f9c3f35|region.redish markup.error.sublime_linter|32",
+								"SL.pyflakes.Highlights.|9e3e47af1e536d575e81e963936d11ecf1f0b082c78c087f59734f8f23893365|region.redish markup.error.sublime_linter|32",
+								"SL.pyflakes.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.pyflakes.Highlights.|4b1265d88e02d55a2bb0bbc381939a7d798865221a40354c97b9471a9c58960e|region.redish markup.error.sublime_linter|32",
+								"SL.pyflakes.Highlights.|1a72c68587c4371f1f81c7e2b96f8819d0439b1238d1903d4b3a9364ac94b7de|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/test_dataframe.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1276,
+								1276
+							]
+						],
+						"settings":
+						{
+							"SL.126.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 331.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pcub.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ipy",
+				"z/iPython.txt"
+			],
+			[
+				"python",
+				"z/Python.txt"
+			],
+			[
+				"README",
+				"datatools/README"
+			],
+			[
+				"ipython",
+				"z/iPython.txt"
+			],
+			[
+				"crash views",
+				"datatools/analytics/crash/views.py"
+			],
+			[
+				"import_dump",
+				"datatools/analytics/crash/scripts/import_dumpfiles.py"
+			],
+			[
+				"crash model",
+				"datatools/analytics/crash/models.py"
+			],
+			[
+				"models",
+				"datatools/analytics/ip/models.py"
+			],
+			[
+				"view",
+				"datatools/analytics/crash/views.py"
+			],
+			[
+				"urls",
+				"datatools/analytics/crash/urls.py"
+			],
+			[
+				"crash models.py",
+				"datatools/analytics/crash/models.py"
+			],
+			[
+				"us-aus",
+				"datatools/piracy/us-aus-crm11.log"
+			],
+			[
+				"model",
+				"datatools/analytics/pertest/models.py"
+			],
+			[
+				"dtrt.py",
+				"datatools/dtrt.py"
+			],
+			[
+				"util.py",
+				"datatools/dtutil/util.py"
+			],
+			[
+				"features.py",
+				"datatools/ipy/notebooks/session_data/dev/features.py"
+			],
+			[
+				"dtrt.",
+				"datatools/dtrt.py"
+			],
+			[
+				"bash",
+				"z/bash.txt"
+			],
+			[
+				"dtutil util.py",
+				"datatools/dtutil/util.py"
+			],
+			[
+				"sqltools",
+				"datatools/dtutil/sqltools.py"
+			],
+			[
+				"matchup_",
+				"datatools/analytics/crash/scripts/matchup_stacktraces.py"
+			],
+			[
+				"ip model",
+				"datatools/analytics/ip/models.py"
+			],
+			[
+				"crash nav_b",
+				"datatools/analytics/crash/templates/crash/nav_base.html"
+			],
+			[
+				"stack.html",
+				"datatools/analytics/crash/templates/crash/stack.html"
+			],
+			[
+				"build_in",
+				"datatools/analytics/crash/templates/crash/build_info.html"
+			],
+			[
+				"crash call",
+				"datatools/analytics/crash/templates/crash/allstacktraces.html"
+			],
+			[
+				"dtrt",
+				"datatools/dtrt.py"
+			],
+			[
+				"get_cl.py",
+				"datatools/scheduled/get_cl.py"
+			],
+			[
+				"log_queue",
+				"datatools/scheduled/log_queue_to_db.py"
+			],
+			[
+				"get_cl",
+				"datatools/scheduled/get_cl.py"
+			],
+			[
+				"check_server",
+				"datatools/scheduled/check_server.py"
+			],
+			[
+				"show_tlm_pct",
+				"datatools/scheduled/show_tlm_pct.py"
+			],
+			[
+				"daily_ms",
+				"datatools/scheduled/daily_msql_summary.py"
+			],
+			[
+				"frequen",
+				"datatools/scheduled/frequent_demo_lic.py"
+			],
+			[
+				"rslog",
+				"datatools/scheduled/rslog.py"
+			],
+			[
+				"tlm models.py",
+				"datatools/analytics/tlm/models.py"
+			],
+			[
+				"test_import_df",
+				"datatools/analytics/crash/test_import_df.py"
+			],
+			[
+				"import_dui",
+				"datatools/analytics/crash/scripts/import_dumpfiles.py"
+			],
+			[
+				"ver",
+				"datatools/analytics/crash/testdata/version_strings.txt"
+			],
+			[
+				"version",
+				"datatools/analytics/crash/testdata/version_strings.txt"
+			],
+			[
+				"version_st",
+				"datatools/analytics/crash/testdata/version_strings.txt"
+			],
+			[
+				"pertest views",
+				"datatools/analytics/pertest/views.py"
+			],
+			[
+				"monthly_lead",
+				"datatools/scoring/monthly_lead_report.py"
+			],
+			[
+				"config log.py",
+				"datatools/analytics/config/log.py"
+			],
+			[
+				"fe_ra",
+				"datatools/products/fe_ratio.py"
+			],
+			[
+				"READ",
+				"datatools/README"
+			],
+			[
+				"import_crash",
+				"datatools/analytics/import_crash_data.bat"
+			],
+			[
+				"models.py",
+				"datatools/analytics/crash/models.py"
+			],
+			[
+				"crash readme.txt",
+				"datatools/analytics/crash/README.txt"
+			],
+			[
+				"cdb nav",
+				"datatools/analytics/cdb/templates/cdb/nav_base.html"
+			],
+			[
+				"pertest models",
+				"datatools/analytics/pertest/models.py"
+			],
+			[
+				"by_pn",
+				"datatools/sf/by_pn.py"
+			],
+			[
+				"get_ant",
+				"datatools/sf/get_antsyn.py"
+			],
+			[
+				"sfdc.py",
+				"datatools/dtutil/sfdc.py"
+			],
+			[
+				"analysis.py",
+				"datatools/analytics/tlm/analysis.py"
+			],
+			[
+				"aws_import",
+				"datatools/analytics/tlm/aws_import.py"
+			],
+			[
+				"tlm views",
+				"datatools/analytics/tlm/views.py"
+			],
+			[
+				"reader.py",
+				"datatools/analytics/pertest/reader.py"
+			],
+			[
+				"util",
+				"datatools/analytics/pertest/util.py"
+			],
+			[
+				"whois",
+				"datatools/analytics/ip/whois.py"
+			],
+			[
+				"ip models",
+				"datatools/analytics/ip/models.py"
+			],
+			[
+				"ip test_models",
+				"datatools/analytics/ip/test_models.py"
+			],
+			[
+				"ipser",
+				"datatools/analytics/ip/ipservices.py"
+			],
+			[
+				"import_dumpfiles",
+				"datatools/analytics/crash/scripts/import_dumpfiles.py"
+			],
+			[
+				"log.py",
+				"datatools/analytics/config/log.py"
+			],
+			[
+				"cdb views",
+				"datatools/analytics/cdb/views.py"
+			],
+			[
+				"accounts",
+				"datatools/dtutil/accounts.py"
+			],
+			[
+				"csvtup",
+				"datatools/dtutil/csvtup.py"
+			],
+			[
+				"views",
+				"datatools/analytics/cdb/views.py"
+			],
+			[
+				"cdb model",
+				"datatools/analytics/cdb/models.py"
+			],
+			[
+				"sqltools.py",
+				"datatools/dtutil/sqltools.py"
+			],
+			[
+				"system_tags",
+				"datatools/dtutil/system_tags.py"
+			],
+			[
+				"configs.py",
+				"datatools/dtutil/configs.py"
+			],
+			[
+				"stubs util",
+				"datatools/stubs/django/urls/utils.pyi"
+			],
+			[
+				"lcs_",
+				"datatools/analytics/crash/scripts/stacklcs_load_output.py"
+			],
+			[
+				"crash models",
+				"datatools/analytics/crash/models.py"
+			],
+			[
+				"parser.py",
+				"datatools/kblogs/parser.py"
+			],
+			[
+				"logs model",
+				"datatools/analytics/logs/models.py"
+			],
+			[
+				"logs mod",
+				"datatools/analytics/logs/models.py"
+			],
+			[
+				"load_log",
+				"datatools/analytics/logs/load_logs.py"
+			],
+			[
+				"dashboard",
+				"datatools/scheduled/dashboard_data.py"
+			],
+			[
+				"readme",
+				"datatools/README"
+			],
+			[
+				"fe_rat",
+				"datatools/products/fe_ratio.py"
+			],
+			[
+				"setting",
+				"datatools/dtutil/settings.py"
+			],
+			[
+				"list_changes",
+				"datatools/analytics/pertest/templates/pertest/list_changes.html"
+			],
+			[
+				"run_stats.html",
+				"datatools/analytics/pertest/templates/pertest/run_stats.html"
+			],
+			[
+				"pertest url",
+				"datatools/analytics/pertest/urls.py"
+			],
+			[
+				"new.py",
+				"datatools/renewals/new.py"
+			],
+			[
+				"pertest model",
+				"datatools/analytics/pertest/test_models.py"
+			],
+			[
+				"9436",
+				"datatools/analytics/pertest/otf/9436.13_init_wrong.py"
+			],
+			[
+				"manual",
+				"datatools/analytics/crash/scripts/manual_import_crash_instance.py"
+			],
+			[
+				"imp",
+				"datatools/analytics/crash/scripts/import_crash_instance.py"
+			],
+			[
+				"import_test",
+				"datatools/analytics/import_test.py"
+			],
+			[
+				"sqs",
+				"datatools/dtutil/sqs.py"
+			],
+			[
+				"import_crash_instance",
+				"datatools/analytics/crash/scripts/import_crash_instance.py"
+			],
+			[
+				"aws",
+				"z/AWS.txt"
+			],
+			[
+				"update_start",
+				"datatools/analytics/crash/scripts/update_start_summary.py"
+			],
+			[
+				"V1",
+				"datatools/sql/V14_ext_starts.sql"
+			],
+			[
+				"aws_eta",
+				"datatools/scheduled/aws_etag_list.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/airflow/airflow.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
